@@ -4,6 +4,8 @@
 
 ### What's Changed
 
+* feat(secrets): add EXPERIMENTAL `secrets` package with the PROM-47 `Field` type and built-in `file` provider
+
 ## v0.72.1 / 2026-10-10
 
 ### Bugfixes
